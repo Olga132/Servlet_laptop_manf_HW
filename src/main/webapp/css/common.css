@@ -1,0 +1,17 @@
+.text-block {
+    margin: 10px 30px 10px 30px;
+}
+
+.table-f {
+    border-collapse: collapse;
+    border: 1px solid grey;
+}
+
+th, td {
+    padding: 10px 15px;
+    border: 1px solid grey;
+}
+
+td {
+    border-bottom: 1px solid grey;
+}
